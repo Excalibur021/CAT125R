@@ -1,5 +1,5 @@
 # Algorithm Introduction
-[About](https://excalibur021.github.io/CAT125R/website#About)
+[About](https://excalibur021.github.io/CAT125R/algorithm-introduction#About)
 
     Author: Hanzhang Zhao
 
