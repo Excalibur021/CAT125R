@@ -7,5 +7,8 @@ The graphs are very helpful for readers to understand what merge sort algorithm 
 
 This article can improves in following ways. Other than time efficiency, space efficiency can also be calculated, as it is important to merge sort but it's different than others. Also, more other algorithm can be included in the experiment for comparason. Moreover, for the convinience of repeat experiement, raw code for emperical experiment is better to include in the article.
 
+The result figure is included below for quick reference
+![result](Results.png)
+
 ---
 [back to main page](https://excalibur021.github.io/CAT125R/)
