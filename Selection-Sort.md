@@ -11,6 +11,7 @@ During the sort process, we treat the array as two part: a sorted subarray gradu
 |0           | ()               | (3, 5, 2, 1, 4)  |
 
 Then, the algorithm goes through the unsorted subarray to find out the minimum/maximum (depending on sorting to ascending/descending) element in the unsorted subarray. You can see the details about finding maximum/minimum algorithm here [a link]. After the minimum/maximum is found, we swap it with the first element of unsorted subarray and move the boundary of subarrays an element right. This process is repeated until the unsorted subarray is empty. We can see this process as an example below:
+
 |  ITERATION  |  SORTED SUBARRAY  |  UNSORTED SUBARRAY  |
 |   :---:     | :---              |        ---:         |
 |0|	() |	(3, 5, 2, 1, 4)|

@@ -19,6 +19,8 @@ This website is created to introduce some basic algorithms for rookie computer s
 ### Algorithms
 [Selection Sort](https://excalibur021.github.io/CAT125R/Selection-Sort)
 
+[Binary Search](https://excalibur021.github.io/CAT125R/Binary-Search)
+
 ### Links
 [Helpful Links](https://excalibur021.github.io/CAT125R/link)
 
