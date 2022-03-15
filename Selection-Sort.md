@@ -29,11 +29,11 @@ As stated in the last paragraph, the first part of array is always sorted, and w
 ---
 ## Time Analysis
 
-For the best case of the sorting algorithm, the array is sorted before algorithm. In this case, in i-th iteration, we need find the minimum/maximum in the unsorted subarray, which need (n-i) comparisons. Then, we do not need to do any swap operations. Hence, together we need $\sum_{i=1} ^{n}(n-i) = \cfrac{n(n-1)}{2}$ operations, which is $O(n^2)$
+For the best case of the sorting algorithm, the array is sorted before algorithm. In this case, in i-th iteration, we need find the minimum/maximum in the unsorted subarray, which need (n-i) comparisons. Then, we do not need to do any swap operations. Hence, together we need <img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1} ^{n}(n-i) = \cfrac{n(n-1)}{2}"> operations, which is <img src="https://render.githubusercontent.com/render/math?math=O(n^2)">
 
-For the worst case, the array is totally unsorted, which means none of the element is on its position. In this case, in i-th iteration, we need find the minimum/maximum in the unsorted subarray, which need (n-i) comparisons. Then in every iteration we need to swap the element. Hence, together we need $\sum_{i=1} ^{n}(n-i+1) = \cfrac{n(n+1)}{2}$ operations, which is $O(n^2)$
+For the worst case, the array is totally unsorted, which means none of the element is on its position. In this case, in i-th iteration, we need find the minimum/maximum in the unsorted subarray, which need (n-i) comparisons. Then in every iteration we need to swap the element. Hence, together we need <img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1} ^{n}(n-i+1) = \cfrac{n(n+1)}{2}"> operations, which is <img src="https://render.githubusercontent.com/render/math?math=O(n^2)">
 
-For the average case, the probability of an element is on its correct position is 1/n, so averagely n/n=1 element is on its position. In this case, in i-th iteration, we need find the minimum/maximum in the unsorted subarray, which need (n-i) comparisons. Then in every iteration but one we need to swap the element. Hence, together we need $\sum_{i=1} ^{n}(n-i+1) - 1 = \cfrac{n(n+1)}{2} - 1$ operations, which is $O(n^2)$
+For the average case, the probability of an element is on its correct position is 1/n, so averagely n/n=1 element is on its position. In this case, in i-th iteration, we need find the minimum/maximum in the unsorted subarray, which need (n-i) comparisons. Then in every iteration but one we need to swap the element. Hence, together we need <img src="https://render.githubusercontent.com/render/math?math=\sum_{i=1} ^{n}(n-i+1) - 1 = \cfrac{n(n+1)}{2} - 1"> operations, which is <img src="https://render.githubusercontent.com/render/math?math=O(n^2)">
 
 ---
 [back to main page](https://excalibur021.github.io/CAT125R/)
