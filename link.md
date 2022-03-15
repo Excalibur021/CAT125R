@@ -39,3 +39,6 @@ This article introduce the algorithm history. It focus on the ancient part and o
 [https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/](https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/)
 
 This article introduce an algorithm to find prime factors of a given number. It introduce its procedure, time complexity, and how it works. Readers who are wondering how algorithm can work in area of math can read this and try this algorithm.
+
+---
+[back to main page](https://excalibur021.github.io/CAT125R/)
