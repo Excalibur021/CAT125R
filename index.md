@@ -8,11 +8,14 @@
 ---
 ## About
 ---
-This website is created to introduce some basic algorithms for rookie computer scientists. I will talk about how they work, their correctness, implementation, and time & space complexity for best, worst, and average cases. It can help rookie computer scientists have a rough overview of those algorithms and lay a firm foundation for future algorithms study.
+This website is created to introduce some basic algorithms for rookie computer scientists. I will talk about how they work, their correctness, implementation, and time & space complexity for best, worst, and average cases. It can help rookie computer scientists have a rough overview of those algorithms and lay a firm foundation for future algorithms study. Hope you enjoy :)
 
 ## Inner Links
 
 ---
+### About
+[This page](https://excalibur021.github.io/CAT125R/)
+
 ### Defination & Basic Properties
 [Defination (You should start with here)](https://excalibur021.github.io/CAT125R/Defination)
 
@@ -21,7 +24,6 @@ This website is created to introduce some basic algorithms for rookie computer s
 
 [Binary Search](https://excalibur021.github.io/CAT125R/Binary-Search)
 
-[]
 
 ### Links
 [Helpful Links](https://excalibur021.github.io/CAT125R/link)
